@@ -11,7 +11,7 @@ senior engineers
 
 **Technical Skills Used:** Java, TypeScript, JUnit, AWS (CDK, Lambda, SQS, ECS/Fargate, CloudWatch), Git, IntelliJ IDEA
 
-**Non-technical Skills Used:** High- and Low-Level Software Design, Task Estimation and Planning, Communication
+**Non-Technical Skills Used:** High-Level and Low-Level Software Design, Task Estimation and Planning, Communication
 ### Mobile Software Engineer Co-op | FOX Sports | January 2021 - December 2021
 - Developed and deployed companion Apple Watch app for million-monthly-user iOS product
 - Performed bug fixes and development on new app features in agile work environment
