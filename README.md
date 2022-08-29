@@ -5,12 +5,12 @@
 ### Jackson Hacker
 **Email:** hackerjs@mail.uc.edu
 
-[Biography](https://github.com/jacksonhack/SeniorDesign/blob/main/JacksonHackerBio.md)
+[Biography](JacksonHackerBio.md)
 
 ### Baru Yogesh
 **Email:** yogeshbv@mail.uc.edu
 
-[Biography](Link_to_Bio)
+[Biography](BaruYogeshBio.md)
 
 ## Faculty Advisor
 TBD (Likely Dr. Badri Vellambi)
