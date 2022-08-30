@@ -13,7 +13,7 @@
 [Biography](BaruYogeshBio.md)
 
 ## Faculty Advisor
-Likely Dr. Badri Vellambi
+Dr. Badri Vellambi
 
 ## Project Topic Area
 Mobile app development using React Native
