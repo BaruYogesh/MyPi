@@ -13,7 +13,7 @@
 [Biography](BaruYogeshBio.md)
 
 ## Faculty Advisor
-TBD (Likely Dr. Badri Vellambi)
+Likely Dr. Badri Vellambi
 
 ## Project Topic Area
 Mobile app development using React Native
