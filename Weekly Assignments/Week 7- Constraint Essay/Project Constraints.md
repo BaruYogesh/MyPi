@@ -3,3 +3,9 @@ For our project, we are planning on using primarily open-source and/or free-to-u
 
 ## Social
 Done properly, our project can enhance social gatherings. By utilizing our app, event organizers and attendees can worry less about the logistics of food (which is usually just a tangential aspect of events) and more about the proceedings of their events. Of course this is applicable to any kind of event, be it social or professional, for non-profit or for-profit organizations. This means, by extension, that if we are marginally improving non-profit events, we are also assisting them in their missions.
+
+## Environmental
+Our project has both potential negative and positive environmental impacts. Because the overall objective is to increase pizza orders, the impact would be an increase in pizza production and delivery. Therefore, more energy would be consumed to meet this need. Food production would produce food and animal waste, and delivering pizza consumes gasoline. However, we hope to offset this cost by creating what will effectively be more efficient food; food that meets the needs of customers while consuming less resources. If we create pizzas that have toppings that people want precisely, then less pizza needs made and hopefully less is wasted.
+
+## Cultural
+As the app would continue to grow and expand to new parts of the world, we would need to support new languages in the app. Although pizza is popular in many parts of the world, some parts have different variations like different topping choices, so we would need to account for this in the creation of our app as well. We hope to have a diverse userbase, because we believe that this will allow us to perceive and understand challenges we could not on our own, and from learning from a diverse userbase we can meet the needs of our users better.
