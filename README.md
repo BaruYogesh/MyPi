@@ -1,4 +1,5 @@
 # Project Description
+Extensive project overview and reports can be found in [wiki](https://github.com/jacksonhack/SeniorDesign/wiki)
 ## Team Name: SeedSearchers (Subject to change)
 
 ## Team Members
